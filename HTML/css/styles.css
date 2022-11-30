@@ -1,0 +1,19 @@
+h1 {
+    color: indigo;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+.subtitulo {
+    color: rgb(255, 47, 47);
+}
+
+.parrafo {
+    color: rgb(10, 47, 255);
+}
+
+#dosparrafo {
+    color: yellow;
+}
